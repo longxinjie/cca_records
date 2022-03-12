@@ -6,3 +6,7 @@
 
 ## Running in Local:
 `python main.py`
+
+## Contributor:
+1. Xin Jie
+2. Yi Xhi
